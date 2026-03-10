@@ -1,0 +1,17 @@
+
+body{
+    padding: 40px;
+}
+
+#area{
+    margin-bottom: 20px;
+}
+
+.row{
+    align-items: center;
+}
+
+#button{
+    margin-bottom: 5%;
+    
+}
